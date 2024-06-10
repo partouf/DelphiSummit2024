@@ -1,10 +1,5 @@
 # tldr
 
-* Delphi can cross-compile to Linux 64 bits, who knew!
-* But does your application even build for Windows 64 bits?
-* Wait, what are we making and why?
-* What libraries can we use on Linux?
-* Choices, choices, do we go for a CLI?
 * It builds under Windows, now what!
 * More choices; WSL, Docker, Linux cloud machine?
 * Logging choices
@@ -16,3 +11,21 @@
 * Even more CI/CD
 * More testing + API Testing
 * Whereto next?
+
+
+---
+
+
+# Overall structure
+
+* Why this talk
+* Overwhelming universe of buzzwords - But it's not that hard - OR IS IT
+* Let's start somewhere - Build as Linux64.. oh wait, you're still on Win32?
+
+```
+procedure HelloWorld;
+begin
+  WriteLn('Hello, World!'#10)
+end;
+```
+
