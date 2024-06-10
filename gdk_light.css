@@ -85,6 +85,24 @@ body .small-logo-summit {
   }
 }
 
+.reveal .slide-number {
+  float: right;
+  position: absolute;
+  left: 91%;
+  top: 92.5%;
+  width: 100px;
+  background-color: transparent;
+  color: var(--r-heading-color);
+  font-size: large;
+}
+
+.reveal .controls {
+  float: right;
+  position: absolute;
+  left: 90%;
+  width: 100px;
+}
+
 .reveal ::selection {
   color: var(--r-selection-color);
   background: var(--r-selection-background-color);
