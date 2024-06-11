@@ -12,3 +12,9 @@
 
 Note:
 * Difficult to determine what beforehand
+
+---
+
+## Sawing Logs
+
+![Layout with logging](/images/network-3.png)

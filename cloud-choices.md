@@ -1,6 +1,13 @@
 ## Cloud choice
 
+![Basic layout](/images/network-1.png)
+
+---
+
+## Cloud choice
+
 * Roll your own Docker server <!-- .element: class="fragment" -->
+
 
 Note:
 * Let's see what that looks like...
@@ -33,3 +40,9 @@ Note:
 * Cloud Docker container <!-- .element: class="fragment" -->
   - No need to maintain the underlying hardware, OS or docker itself <!-- .element: class="fragment" -->
 * Bare Instances <!-- .element: class="fragment" -->
+
+---
+
+## Cloud choice
+
+![Layout with builder](/images/network-2.png)
