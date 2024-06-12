@@ -34,6 +34,12 @@ Note:
 
 ---
 
+## DiY Docker
+
+![DiY Docker Overview](images/diy-docker.png)
+
+---
+
 ## Cloud choice
 
 * Roll your own Docker server

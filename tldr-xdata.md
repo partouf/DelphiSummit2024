@@ -52,17 +52,6 @@ end;
 
 ---
 
-## Out of control
-
-* You .Create it
-* You give it to the XData layer
-* Which sends it over HTTP/TCP
-* And then frees it after it's been sent
-* And if you got it from XData as a parameter
-* It also handles freeing
-
----
-
 ## Point to the end
 
 ```pascal
@@ -115,6 +104,17 @@ initialization
   RegisterServiceType(TSomeEndpoint);
 end.
 ```
+
+---
+
+## Out of control
+
+* You .Create it
+* You give it to the XData layer
+* Which sends it over HTTP/TCP
+* And then frees it after it's been sent
+* And if you got it from XData as a parameter
+* It also handles freeing
 
 ---
 

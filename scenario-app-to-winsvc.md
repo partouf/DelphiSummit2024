@@ -8,6 +8,7 @@
   - By sending JSON or File<!-- .element: class="fragment" -->
   - And getting a JSON result<!-- .element: class="fragment" -->
   - Or a PDF report<!-- .element: class="fragment" -->
+* Coincidentally already converted to 64bits earlier<!-- .element: class="fragment" -->
 
 ---
 
@@ -29,7 +30,18 @@
   - [DMVCFramework](https://github.com/danieleteti/delphimvcframework) <!-- .element: class="fragment" -->
   - [RAD Server](https://www.embarcadero.com/products/rad-server) <!-- .element: class="fragment" -->
 
+---
+
+## It's alive!
+
+* It worked... mostly <!-- .element: class="fragment" -->
+* Awkward installation when updating <!-- .element: class="fragment" -->
+* Mostly useless Desktop <!-- .element: class="fragment" -->
+* No scaling possible <!-- .element: class="fragment" -->
+* But worst of all: random Printer errors <!-- .element: class="fragment" -->
+  - "Printer out of range" <!-- .element: class="fragment" -->
+  - To fix: restart service <!-- .element: class="fragment" -->
 
 Note:
-
-* Test
+* Scaling possible with multiple instances on 1 server and load balancing application, but not trivial <!-- .element: class="fragment" -->
+* Also multiple Windows servers, but seems wasteful <!-- .element: class="fragment" -->

@@ -370,6 +370,10 @@ body .small-logo-summit {
   margin: var(--r-block-margin) 0;
 }
 
+.reveal .about-me-logos img {
+  max-width: 300px;
+}
+
 /*********************************************
  * LINKS
  *********************************************/
