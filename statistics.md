@@ -8,3 +8,9 @@
 
 Note:
 * https://ce.grafana.net/d/2W9_lB5Mk/compiler-explorer-dashboard?orgId=1&refresh=10s
+
+---
+
+## Statistics
+
+![Startup Statistics CE](images/startup-ce.png)
