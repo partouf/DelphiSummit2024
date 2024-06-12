@@ -9,9 +9,7 @@
   - And getting a JSON result<!-- .element: class="fragment" -->
   - Or a PDF report<!-- .element: class="fragment" -->
 
-
 ---
-
 
 ## Windows service
 

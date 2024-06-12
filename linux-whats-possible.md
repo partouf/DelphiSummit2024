@@ -1,11 +1,11 @@
 #### What's possible
 
-* All the non-platform specific Delphi classes and functions <!-- .element: class="fragment" -->
-  - System.SysUtils <!-- .element: class="fragment" -->
-  - System.IOUtils <!-- .element: class="fragment" -->
-  - System.Net <!-- .element: class="fragment" -->
-  - etc <!-- .element: class="fragment" -->
-* But also... <!-- .element: class="fragment" -->
+* All the non-platform specific Delphi classes and functions
+  - System.SysUtils
+  - System.IOUtils
+  - System.Net
+  - etc
+* But also...
   - Indy <!-- .element: class="fragment" -->
   - FireDAC <!-- .element: class="fragment" -->
   - Rest <!-- .element: class="fragment" -->
