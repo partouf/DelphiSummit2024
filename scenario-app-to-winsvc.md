@@ -19,36 +19,9 @@
 * Access to QuickReport<!-- .element: class="fragment" -->
 * No complicated changes needed<!-- .element: class="fragment" -->
 * Just a lot of refactoring<!-- .element: class="fragment" -->
-
-
----
-
-
-## Refactoring for Service
-
-* Separate the UI from the code that you need<!-- .element: class="fragment" -->
-  - Prefer to move code to a new unit<!-- .element: class="fragment" -->
-  - Change UI errors to exceptions or use a parameter for errors<!-- .element: class="fragment" -->
-```pascal
-function CalculateSomething: float;
-begin
-  Result := 0;
-  if not Someglobal.IsValid then
-  begin
-    ShowMessage('Not valid');
-    Exit;
-  end;
-  // ... etc
-end;
-```
-<!-- .element: class="fragment" -->
-* Try to keep Windows specific calls in separate functions or (interfaced) classes<!-- .element: class="fragment" -->
-  - `{$ifdef API}`<!-- .element: class="fragment" -->
-* But don't ifdef your dpr uses, Delphi will make a mess of things<!-- .element: class="fragment" -->
-
+* And locking<!-- .element: class="fragment" -->
 
 ---
-
 
 ## Setting up a REST API
 
