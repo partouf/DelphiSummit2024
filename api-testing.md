@@ -27,6 +27,9 @@ class TestForSmoke:
         verify_as_json(self.get_books())
 ```
 
+* `verify_as_xml` possible for html/xml
+* `verify` for text
+
 ---
 
 ## Restart your engines

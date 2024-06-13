@@ -17,3 +17,6 @@
   - Easy cloud integration <!-- .element: class="fragment" -->
   - Docker logging system via Stdout <!-- .element: class="fragment" -->
 * Other... <!-- .element: class="fragment" -->
+
+Note:
+* Experienced with Linux?

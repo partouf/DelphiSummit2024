@@ -7,3 +7,6 @@
 ![Compiler Explorer](logos/ce-logo.svg)
 
 </div>
+
+Note:
+* Know CE?

@@ -8,6 +8,9 @@
   - Make sure to output (package output + unit output) to separate .\\$(Platform)\\$(Config) directory <!-- .element: class="fragment" -->
   - And update the Linux64 Library paths <!-- .element: class="fragment" -->
 
+Note:
+* Are you already on 64 bits?
+
 ---
 
 ## Local testing options

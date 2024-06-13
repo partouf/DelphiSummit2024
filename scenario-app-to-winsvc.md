@@ -29,6 +29,7 @@
   - [MARS](https://github.com/andrea-magni/MARS) <!-- .element: class="fragment" -->
   - [DMVCFramework](https://github.com/danieleteti/delphimvcframework) <!-- .element: class="fragment" -->
   - [RAD Server](https://www.embarcadero.com/products/rad-server) <!-- .element: class="fragment" -->
+  - Many more <!-- .element: class="fragment" -->
 
 ---
 

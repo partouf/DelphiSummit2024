@@ -1,5 +1,6 @@
 ## Deploying your infrastructure
 
+* What platform? <!-- .element: class="fragment" -->
 * Manual entry requires documentation <!-- .element: class="fragment" -->
   - Will run out of date quickly <!-- .element: class="fragment" -->
 * Prefer infra as code - Terraform is cool <!-- .element: class="fragment" -->
