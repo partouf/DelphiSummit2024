@@ -8,7 +8,6 @@
   - By sending JSON or File<!-- .element: class="fragment" -->
   - And getting a JSON result<!-- .element: class="fragment" -->
   - Or a PDF report<!-- .element: class="fragment" -->
-* Coincidentally already converted to 64bits earlier<!-- .element: class="fragment" -->
 
 ---
 
@@ -18,18 +17,18 @@
 * Access to QuickReport<!-- .element: class="fragment" -->
 * No complicated changes needed<!-- .element: class="fragment" -->
 * Just a lot of refactoring<!-- .element: class="fragment" -->
-* And locking<!-- .element: class="fragment" -->
+* And appropriate locking<!-- .element: class="fragment" -->
 
 ---
 
 ## Setting up a REST API
 
-* Choose your poison <!-- .element: class="fragment" -->
-  - [TMS Aurelius XData](https://www.tmssoftware.com/site/xdata.asp) <!-- .element: class="fragment" -->
-  - [MARS](https://github.com/andrea-magni/MARS) <!-- .element: class="fragment" -->
-  - [DMVCFramework](https://github.com/danieleteti/delphimvcframework) <!-- .element: class="fragment" -->
-  - [RAD Server](https://www.embarcadero.com/products/rad-server) <!-- .element: class="fragment" -->
-  - Many more <!-- .element: class="fragment" -->
+* Choose your poison
+  - [TMS Aurelius XData](https://www.tmssoftware.com/site/xdata.asp))
+  - [MARS](https://github.com/andrea-magni/MARS)
+  - [DMVCFramework](https://github.com/danieleteti/delphimvcframework)
+  - [RAD Server](https://www.embarcadero.com/products/rad-server)
+  - Many more
 
 ---
 
@@ -44,5 +43,5 @@
   - To fix: restart service <!-- .element: class="fragment" -->
 
 Note:
-* Scaling possible with multiple instances on 1 server and load balancing application, but not trivial <!-- .element: class="fragment" -->
+* Scaling possible but not trivial <!-- .element: class="fragment" -->
 * Also multiple Windows servers, but seems wasteful <!-- .element: class="fragment" -->
