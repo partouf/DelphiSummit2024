@@ -17,8 +17,8 @@
   - But can't test everything <!-- .element: class="fragment" -->
 * Linux build + use PAServer to upload to remote machine <!-- .element: class="fragment" -->
   - https://docwiki.embarcadero.com/RADStudio/Athens/en/PAServer,_the_Platform_Assistant_Server_Application <!-- .element: class="fragment" -->
-* Linux build + use PAServer debugging in WSL <!-- .element: class="fragment" -->
   - Uploading costs time <!-- .element: class="fragment" -->
+* Linux build + use PAServer debugging in WSL <!-- .element: class="fragment" -->
 * Linux build + Docker build <!-- .element: class="fragment" -->
   - After 1st time build it should be pretty quick <!-- .element: class="fragment" -->
   - PAServer debugging possible <!-- .element: class="fragment" -->

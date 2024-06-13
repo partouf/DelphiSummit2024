@@ -1,4 +1,4 @@
-## Choice 1 of 99.999
+### Choice 1 of 99.999
 
 * Inetd/Xinetd <!-- .element: class="fragment" -->
   - Low effort <!-- .element: class="fragment" -->
@@ -16,3 +16,4 @@
   - Isolated from the rest <!-- .element: class="fragment" -->
   - Easy cloud integration <!-- .element: class="fragment" -->
   - Docker logging system via Stdout <!-- .element: class="fragment" -->
+* Other... <!-- .element: class="fragment" -->
