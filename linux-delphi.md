@@ -10,6 +10,9 @@
 
 Note:
 * Are you already on 64 bits?
+* Jim McKeeth posted some easy scripts to install PAServer on various platforms https://github.com/jimmckeeth/Delphi-on-Linux-Setup
+* List of officially supported OS's https://docwiki.embarcadero.com/PlatformStatus/en/Main_Page
+* Maybe this works for Alpine? I have not tested https://wiki.alpinelinux.org/wiki/Running_glibc_programs
 
 ---
 
